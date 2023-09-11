@@ -1,0 +1,10 @@
+1 sabonete higiene 36 2.99
+2 shampoo higiene 30 5.99
+3 pasta_dental higiene 40 3.49
+4 arroz alimenticio 100 10.99
+5 feijao alimenticio 80 8.49
+6 TV eletronico 9 800.00
+7 celular eletronico 10 1000.00
+8 camisa vestuario 18 29.99
+9 calca vestuario 20 39.99
+10 tenis vestuario 15 49.99
